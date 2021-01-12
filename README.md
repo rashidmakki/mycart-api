@@ -31,6 +31,7 @@ example: `fetch('Your URL/checkout')`
 Now go to Heroku website and login to Heroku.
 Go To Dashboard -> YourApp -> Settings ->Config Vars and Add the following:
   `STRIPE_SECRET_KEY`   `YOUR SECRET KEY`
+  
 Save it.Now Your server is running.
 
 If you have already created a new repo on github then you can push your repo to github using `git push` but firstly add origin using `git remote add origin your_repo_url`.
