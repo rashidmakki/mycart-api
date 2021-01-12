@@ -25,8 +25,10 @@ Follow the steps:
 `git push heroku master`
 
 You will get published domain that means your server is running.
-##### Copy the domain and go to [mycart](https://github.com/rashidmakki/mycart.git) repo Step 5  
-```js fetch(`Your URL/checkout`) ```
+##### Copy the domain and go to [mycart](https://github.com/rashidmakki/mycart.git) repo Step 5 
+example: ```js
+fetch(`Your URL/checkout`)
+```
 
 Now go to Heroku website and login to Heroku.
 Go To Dashboard -> YourApp -> Settings ->Config Vars and Add the following:
