@@ -25,7 +25,7 @@ Follow the steps:
 `git push heroku master`
 
 You will get published domain that means your server is running.
-##### Copy the domain and go to [mycart](https://github.com/rashidmakki/mycart.git) repo Step 5 
+##### Copy the domain and go to [mycart](https://github.com/rashidmakki/mycart.git) repository and follow Step 5 
 example: `fetch('Your URL/checkout')`
 
 Now go to Heroku website and login to Heroku.
