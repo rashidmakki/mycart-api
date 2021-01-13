@@ -17,7 +17,7 @@ Add the STRIPE_SECRET_KEY in the .env file:
 ## Add Your Email:
 Go to `server.js` file
 
-Add: `reciept_email:'Your Email'`
+`reciept_email:'Your Email'`
 
 ## Deploy your server to heroku:
 Follow the steps:
