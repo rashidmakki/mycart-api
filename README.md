@@ -11,6 +11,7 @@ a server developed using Nodejs and stripe api for payement services.
 You can find your Stripe Secret Key at [Stripe](https://www.stripe.com/)
 
 Add the STRIPE_SECRET_KEY in the .env file:
+
 `STRIPE_SECRET_KEY = YOUR SECRET KEY`
 
 
@@ -18,10 +19,15 @@ Add the STRIPE_SECRET_KEY in the .env file:
 Follow the steps:
 
 `npm install -g heroku`
+
 `heroku login`
+
 `herko create`
+
 `git add -A`
+
 `git commit -m"Add Your Comment"`
+
 `git push heroku master`
 
 You will get published domain that means your server is running.
@@ -30,6 +36,7 @@ example: `fetch('Your URL/checkout')`
 
 Now go to Heroku website and login to Heroku.
 Go To Dashboard -> YourApp -> Settings ->Config Vars and Add the following:
+
   `STRIPE_SECRET_KEY`   `YOUR SECRET KEY`
   
 Save it.Now Your server is running.
