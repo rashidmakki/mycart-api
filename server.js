@@ -31,7 +31,7 @@ app.post('/checkout', (req, res) => {
          amount:totalPrice*100,
          currency:'inr',
          customer:customer.id,
-         receipt_email:'arashid854@gmail.com',
+         receipt_email:'Your Email',
          shipping:{
           name:token.card.name,
           address:{
