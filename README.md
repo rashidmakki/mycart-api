@@ -45,4 +45,4 @@ Go To Dashboard -> YourApp -> Settings ->Config Vars and Add the following:
   
 Save it.Now Your server is running.
 
-If you have already created a new repo on github then you can push your repo to github using `git push` but firstly add origin using `git remote add origin your_repo_url`.
+If you have already created a new repo on github then you can push your file to github using `git push` but firstly add origin using `git remote add origin your_repo_url`.
