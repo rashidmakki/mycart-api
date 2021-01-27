@@ -1,5 +1,5 @@
 # mycart-api
-a server developed using Nodejs and stripe api for payment services.
+a server developed using Nodejs and stripe node module for payment services.
 
 ## clone this repo
   
